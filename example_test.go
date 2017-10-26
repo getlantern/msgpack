@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"gopkg.in/vmihailenco/msgpack.v2"
+	"github.com/getlantern/msgpack"
 )
 
 func ExampleMarshal() {
